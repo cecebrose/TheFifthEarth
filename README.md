@@ -1,2 +1,2 @@
 # TheFifthEarth
-Your source for all things relating to conservation, animals, animal welfare, plant-based recipes, and eco-friendly products
+Your source for all things relating to conservation, animals, animal welfare, wildlife, eco-tourism, plant-based recipes, and eco-friendly products.
