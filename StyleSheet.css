@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+h1 {
+    font-size: 24px;
+    color: #000000;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Additional styles for multiple pages */
+
+.home-page {
+    /* Styles specific to the home page */
+}
+
+.about-page {
+    /* Styles specific to the about page */
+}
+
+.services-page {
+    /* Styles specific to the services page */
+}
+
+.contact-page {
+    /* Styles specific to the contact page */
+}
